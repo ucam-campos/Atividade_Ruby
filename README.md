@@ -53,3 +53,10 @@ NÃO, NÃO DESDE 1938! Você não pode parar de falar com a velha enquanto não 
 - Anos bissextos são sempre divisíveis por quatro, como 1984 e 2004, por exemplo;
 - Contudo, anos divisíveis por 100 não são bissextos, como 1800 e 1900, por exemplo;
 - A não ser que sejam divisíveis por 400, como 1600 e 2000, que foram de fato anos bissextos, por exemplo.
+
+## Capítulo 9
+
+1. Escreva um programa que nos permita entrar com quantas palavras quisermos (uma por vez, até pressionarmos *Enter* em uma linha vazia), e depois mostre as palavras de forma ordenada.
+
+- Dica: Use o método `sort`
+- Obs: Não adicione uma string vazia ao vetor.
