@@ -1,6 +1,5 @@
 ## Enunciado
 
-
 Escreva um programa do Chefe Zangado. Ele deve perguntar o que
 você quer de forma rude. Qualquer que seja a sua resposta, o Chefe
 Zangado vai gritar de volta para você, e então despedi-lo.
